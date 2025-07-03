@@ -1,3 +1,43 @@
+# 🚆 TrainBooking – Online Train Ticket Booking System
+
+An online platform to search, book, and manage train journeys. Developed as a full-stack decoupled system using Spring Boot and React.
+
+## 📌 Features
+
+- 🔐 User authentication (Google OAuth), profile management
+- 🔍 Search/filter journeys by station, date, and train code
+- 🪑 Seat selection and passenger info
+- 📍 Google Maps integration to display station locations
+- 💳 Online payment via VNPay (including callback handling)
+- 📄 E-ticket generation and printing
+- 📜 Booking history and ticket lookup
+
+## 🛠 Tech Stack
+
+- **Frontend:** React (Vite), SCSS, JavaScript
+- **Backend:** Spring Boot (Java), MySQL
+- **OAuth:** Google OAuth2
+- **Payment Gateway:** VNPay
+- **Map API:** Google Maps
+
+## 📂 Project Structure
+
+This is a decoupled project with two separate repositories:
+
+- 🔧 Backend: [TrainBooking_Backend](https://github.com/ThunSuy/TrainBooking_Backend)
+- 💻 Frontend: [TrainBooking_Fontend](https://github.com/ThunSuy/TrainBooking_Fontend)
+
+## 📽 Demo Video
+
+▶️ [YouTube Video Demo](https://youtu.be/0_VI7dV1jZQ)
+
+## 👤 Author
+
+- **Lê Minh Thuận**  
+- 📧 thuanleminh.dev@gmail.com  
+- 🔗 [GitHub](https://github.com/ThunSuy) | [Portfolio](https://thunsuy.github.io) | [LinkedIn](https://www.linkedin.com/in/thuan-le-785295276/)
+
+
 # Train Management System
 
 This is a Train Management System project built using Java Spring Boot for the backend and MySQL for the database. The system allows for train ticket booking, reservation management and other additional functions.
