@@ -38,26 +38,6 @@ This is a decoupled project with two separate repositories:
 - 🔗 [GitHub](https://github.com/ThunSuy) | [Portfolio](https://thunsuy.github.io) | [LinkedIn](https://www.linkedin.com/in/thuan-le-785295276/)
 
 
-# Train Management System
-
-This is a Train Management System project built using Java Spring Boot for the backend and MySQL for the database. The system allows for train ticket booking, reservation management and other additional functions.
-
----
-
-## Features
-- Detail: [Instructions documents](https://github.com/ThunSuy/TrainBooking_Backend/blob/main/TaiLieuHuongDan.pdf)
-
----
-
-## Prerequisites
-
-### Tools and Software Required:
-1. [Java 17+](https://www.oracle.com/java/technologies/javase-downloads.html)
-2. [Spring Boot 3+](https://spring.io/projects/spring-boot)
-3. [MySQL 8+](https://dev.mysql.com/downloads/)
-4. [Maven](https://maven.apache.org/download.cgi)
-5. [Git](https://git-scm.com/)
-
 ---
 
 ## Installation and Setup
